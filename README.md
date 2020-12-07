@@ -26,7 +26,8 @@
   <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Matplotlib%20-%23013243.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"/></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?&style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn"/></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Scikit Learn%20-%23013243.svg?&style=for-the-badge&logo=Scikit Learn&logoColor=white" alt="Scikit Learn"/></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/ScikitLearn%20-%23013243.svg?&style=for-the-badge&logo=ScikitLearn&logoColor=white" alt="ScikitLearn"/></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/Plotly%20-%23013243.svg?&style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly"/></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
   </p>
  </div>
