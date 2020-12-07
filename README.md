@@ -1,7 +1,7 @@
 ### Hello, I'm Suresh <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshmecad" alt="Suresh" /> </p>
 
-<code><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" alt="developer" align="left" width="500px" height="500px"  /></code>&nbsp;
+<code><img src="https://giphy.com/gifs/2vnId4IaAjIGZd2EWC" alt="developer" align="left" width="500px" height="500px"  /></code>&nbsp;
 <p align="left"> - 💻 I’m an aspiring Data Scientist <br>
 - 🤝 I'm Automotive Design Engineer and looking for carrier trasition into Data Science <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>
