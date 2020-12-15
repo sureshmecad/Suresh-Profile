@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="300px" src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/Developer.gif" />
+<img align="right" alt="GIF"  width="300px" src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/giphy.webp" />
 
 <h1 align="center">Hello 👋  :D , I'm Anuganti Suresh <img src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate Data Scientist from India.</h3><br>
