@@ -36,10 +36,10 @@
   <code><img src="https://img.shields.io/badge/ScikitLearn%20-%23013243.svg?&style=for-the-badge&logo=ScikitLearn&logoColor=white" alt="ScikitLearn"/></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Plotly%20-%23013243.svg?&style=for-the-badge&logo=Plotly&logoColor=white" alt="Plotly"/></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Flask" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Streamlit" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Heroku" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Git" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/flask%20-%23F37626.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/streamlit%20-%23F37626.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/heroku%20-%23F37626.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/git%20-%23F37626.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" /></code>&nbsp;
   </p>
  </div>
  
