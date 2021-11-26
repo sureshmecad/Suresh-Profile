@@ -1,7 +1,16 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsureshmecad)](https://hits.seeyoufarm.com)
+
+![Suresh's github stats](https://github-readme-stats.vercel.app/api?username=sureshmecad&show_icons=true&hide_border=true)
+
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sureshmecad/notebook)
+
+**Languages and Tools**  
+
+
 <img align="right" alt="GIF"  width="300px" src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/giphy.webp" />
 
-<h1 align="center">Hello 👋  :D , I'm Anuganti Suresh <img src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/Developer.gif" width="65px"></h1>
-<h3 align="center"> A passionate Data Scientist from India.</h3><br>
+<h1 align="center">Hello 👋  :D , I'm Anuganti Suresh <img src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/Developer.gif" width="40px"></h1>
+<h3 align="center"> A passionate Data Scientist.</h3><br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/sureshmecad) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=sureshmecad.profileviews-badge)](https://github.com/sureshmecad) [![Open Source Love](https://img.shields.io/github/followers/sureshmecad?style=social)](https://github.com/sureshmecad?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sureshmecad)[![Repos Badge](https://badges.pufler.dev/repos/sureshmecad)](https://badges.pufler.dev/repos/sureshmecad)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anuganti-suresh-9aa17822/)
 <br>
