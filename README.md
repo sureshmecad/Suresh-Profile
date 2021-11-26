@@ -4,8 +4,6 @@
 
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/sureshmecad/notebook)
 
-**Languages and Tools**  
-
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/sureshmecad/sureshmecad/blob/main/suresh%20-master/Profile%20generator/giphy.webp" />
 
