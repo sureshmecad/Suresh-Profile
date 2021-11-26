@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshmecad" alt="Suresh" /> </p>
 
-<code><img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" alt="developer" align="left" width="100px" height="100px"  /></code>&nbsp;
+<code><img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" alt="developer" align="left" width="250px" height="250px"  /></code>&nbsp;
 <p align="left"> - 💻 I’m an aspiring Data Scientist <br>
 - 🤝 I'm Automotive Design Engineer and looking for carrier trasition into Data Science <br>
 - 👀 I’m looking to collaborate on Open Source Projects<br>
